@@ -1,5 +1,5 @@
 .idea
-*.iml
+*.xml
 target
 *.exe
 *.dmg
